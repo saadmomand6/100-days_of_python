@@ -24,11 +24,11 @@
 # print(f"you have {day_remaing} days, {week_remaing} weeks , {month_remaing} months remaining")
 
 # # //////////////////EXCERSICE 2.3 = TIP CALCULATOR ////////////////
-bill = input("current bill ?  $")
-no_of_person = input("number of person to split bill ?  ")
-tip_percent = input("percentage of tip ?  10, 12 , 15 ")
-tip_in_percent =  int(tip_percent) / 100
-bill_amount_after_adding_tip = float(bill) + float(tip_in_percent)
-amount_after_spliting_bill = float(bill_amount_after_adding_tip) / int(no_of_person)
-amount_after_spliting_bill = int(amount_after_spliting_bill)
-print(f"you have {amount_after_spliting_bill} to pay")
+# bill = input("current bill ?  $")
+# no_of_person = input("number of person to split bill ?  ")
+# tip_percent = input("percentage of tip ?  10, 12 , 15 ")
+# tip_in_percent =  int(tip_percent) / 100
+# bill_amount_after_adding_tip = float(bill) + float(tip_in_percent)
+# amount_after_spliting_bill = float(bill_amount_after_adding_tip) / int(no_of_person)
+# amount_after_spliting_bill = int(amount_after_spliting_bill)
+# print(f"you have {amount_after_spliting_bill} to pay")

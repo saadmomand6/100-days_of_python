@@ -73,17 +73,17 @@
 
 # ////////// TREASURE ISLAND STORY GAME////////////
 
-print("WELCOME TO TREASURE ISLAND")
-decision1  = input("want to take left or right")
-if str(decision1) == "left":
-    decision2 = input("want to swim left or wait")
-    if decision2 == "wait":
-        decision3 = input("choose a door : yellow , red , blue")
-        if decision3 == "yellow":
-            print("you win")
-        else:
-           print("games over") 
-    else:
-        print("gamess over")
-else:
-    print("gamesss over")
+# print("WELCOME TO TREASURE ISLAND")
+# decision1  = input("want to take left or right")
+# if str(decision1) == "left":
+#     decision2 = input("want to swim or wait")
+#     if decision2 == "wait":
+#         decision3 = input("choose a door : yellow , red , blue")
+#         if decision3 == "yellow":
+#             print("you win")
+#         else:
+#            print("games over") 
+#     else:
+#         print("gamess over")
+# else:
+#     print("gamesss over")
